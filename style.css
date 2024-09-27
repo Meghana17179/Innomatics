@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width:70%;
+    height:500px;
+    margin-left:70px;
+    margin-top:40px;
+    
+}
+table tr,th,td{
+    font-size: 22px;
+    border: 1px solid black;
+
+}
+.time{
+    padding:10px;
+    text-align: center;
+    background-color:#D8D8D8;
+   
+}
+.day{
+    padding:10px;
+    text-align: center; 
+    background-color: yellow;    
+}
+.sub{
+    padding:10px;
+    text-align: center; 
+}
+.home{
+    padding: 50px;
+    background-color:#ffc0d0;
+}
+#title{
+    background-color: yellow;
+    padding: 10px;
+}
+#time{
+    background-color: yellow;
+}
